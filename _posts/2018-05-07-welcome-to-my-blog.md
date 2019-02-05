@@ -7,7 +7,7 @@ enclosure:
 pullquote:
 enclosure_type:
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /bigstock-house-real-estate-data-and-co-123908711.jpg
 layout: post
 title: Welcome To My Blog!
@@ -18,7 +18,7 @@ tags:
   - Home Seller Tips
 ---
 
-Our market remains busy, and it’s still an opportune time to command a high price selling your home. &nbsp;
+Our market remains busy, and it’s still an opportune time to command a high price selling your home.  
 
 I know what’s happening in the Louisville area, specifically pertaining to home values, that will directly affect you.
 
