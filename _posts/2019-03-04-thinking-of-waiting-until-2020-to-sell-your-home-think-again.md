@@ -24,7 +24,7 @@ youtube_code: xNgu41Ly800
 
 Many homeowners believe that rising interest rates and the current state of home prices have scared away a lot of potential buyers, but is that really the case?
 
-Fortunately, no. The truth is, **most of the buyers who were unsuccessful buying a home in 2018 are still out in full force today**. Additionally, many more buyers are entering the market every single day. According to a 2018 report by NerdWallet, 32% of all Americans intend to make a home purchase in the next five years.&nbsp;
+Fortunately, no. The truth is that&nbsp;**most of the buyers who were unsuccessful buying a home in 2018 are still out in full force today**. Additionally, many more buyers are entering the market every single day. According to a 2018 report by NerdWallet, 32% of all Americans intend to make a home purchase in the next five years.&nbsp;
 
 {% include pullquote.html %}
 
