@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Pre-Listing Inspections
-date: 2019-04-16 18:38:11
+date: 2019-04-16 18:38:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 4ImuOjJeMe4
+youtube_code: gAxonHWmU_g
 ---
 
 {% include youtube.html %}
@@ -28,8 +28,8 @@ There are three reasons why getting a pre-listing inspection is a good idea:
 
 {% include pullquote.html %}
 
-**3\. It can speed up the negotiation process.** Having a disclosure out there and having major issues already addressed will shorten up the timeline of your sale.&nbsp;
+**3\. It can speed up the negotiation process.** Having a disclosure out there and having major issues already addressed will shorten up the timeline of your sale. 
 
-Any issues you find in your pre-listing inspection do require disclosure, even if you fix them. **There’s also no guarantee that the buyer’s inspection will bring up the same issues as yours.&nbsp;**
+Any issues you find in your pre-listing inspection do require disclosure, even if you fix them. **There’s also no guarantee that the buyer’s inspection will bring up the same issues as yours. **
 
 We have a pre-listing checklist that you can use as a starting point for finding out your home’s condition. If you would like the checklist, want recommendations for an inspector, or have any questions, feel free to reach out to me. I look forward to hearing from you soon.
