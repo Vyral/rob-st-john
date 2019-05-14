@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much of a Down Payment Do You Need in Our Market?
-date: 2019-05-14 18:21:38
+date: 2019-05-14 18:21:00
 tags:
 excerpt: >-
   I’m back again with another video to help you with all things buying, selling,
