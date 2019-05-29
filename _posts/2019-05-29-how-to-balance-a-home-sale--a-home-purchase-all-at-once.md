@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Balance a Home Sale & a Home Purchase All at Once
-date: 2019-05-29 17:09:43
+date: 2019-05-29 05:09:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
