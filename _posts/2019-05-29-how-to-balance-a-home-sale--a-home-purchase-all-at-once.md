@@ -11,13 +11,13 @@ excerpt: >-
   home at the same time without ending up homeless? Today I’ll walk you through
   your options.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Rob+St.+John/Omnipresent+Property+Group+_+Buy+Sell+Balance.mp4
+  https://s3.amazonaws.com/vyralmarketing/Rob+St.+John/Omnipresent+Property+Group+_+How+to+Balance+a+Home+Sale+%26+a+Home+Purchase+All+at+Once+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: n9fo3n3RnG4
+youtube_code: _CAaRQfQUuk
 ---
 
 {% include youtube.html %}
