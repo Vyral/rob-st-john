@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Spring Frenzy Has Arrived for Real Estate
-date: 2019-04-01 19:42:25
+date: 2019-04-01 19:42:00
 tags:
   - Market Update
   - Real Estate
@@ -9,7 +9,7 @@ excerpt: >-
   Now that spring is here, you have the perfect opportunity to land the perfect
   buyer for your home. Here’s why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Rob+St.+John/Omnipresent+Property+Group+_+The+Spring+Frenzy+Has+Arrived+for+Real+Estate.mp4
+  https://vyralmarketing.s3.amazonaws.com/Rob+St.+John/Omnipresent+Property+Group+_+The+Spring+Frenzy+Has+Arrived+for+Real+Estate+(2).mp4
 pullquote: 'If you’re thinking of selling your home this year, the time to list is now.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +20,7 @@ youtube_code: Olv4yTjWGB8
 
 {% include youtube.html %}
 
-The spring market is off to the races!
+The spring market is off to the races\!
 
 Inventory is increasing, buyers are out in force, and low interest rates are getting buyers and sellers alike off the fence. Research from Realtor.com shows that the first week in April is the best time to list your home for sale. By listing in this first week, **you’ll have 14 times more views, have 5% less competition, and your home will sell six days quicker.**
 
