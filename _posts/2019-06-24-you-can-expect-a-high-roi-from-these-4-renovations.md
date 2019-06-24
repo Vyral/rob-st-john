@@ -28,8 +28,8 @@ That got me thinking, and so after some digging, today I have a list of the top 
 
 1. **Replace your entry door.** On average, this simple upgrade will cost around $1,700, but you’ll yield an average return of 108%\! It’s crazy to think about, but your front door could actually be a profitable upgrade.
 2. **Add stone veneer to your home.** Consider replacing some vinyl siding in the entryway with a nice bit of stone veneer—this will boost your curb appeal. This sort of update will cost around $8,900, but you can expect a return of around 94.9%. First impressions and curb appeal make a huge difference in the sale of your home.
-3. **Replace your garage door.** This will be a huge boost to your curb appeal, especially to those properties with front-facing garages. The cost of this update circles the $3,500-mark, but typically brings a 92% return on your investment.
-4. **Remodel and upgrade your bathroom.** I’m talking about replacing the fixtures, updating the tub, and adding things like 4x4 tile surround. Also, think about adding new, single-lever, temperature-controlled shower controls—a nice feature. A standard white toilet and a solid surface vanity with an integrated sink and recessing cabinet will go a long way. In our area, these improvements round out at about $19,000, but you can get a 92% return on your investment.
+3. **Replace your garage door.** This will be a huge boost to your curb appeal, especially to those properties with front-facing garages. The cost of this update circles the $3,500 mark, but typically brings a 92% return on your investment.
+4. **Remodel and upgrade your bathroom.** &nbsp;I’m talking about replacing the fixtures, updating the tub, and adding things like single-lever, temperature-controlled shower controls—a nice feature. A standard white toilet and a solid surface vanity with an integrated sink and recessing cabinet will go a long way. In our area, these improvements round out at about $19,000, but you can get a 92% return on your investment.
 
 {% include pullquote.html %}
 
