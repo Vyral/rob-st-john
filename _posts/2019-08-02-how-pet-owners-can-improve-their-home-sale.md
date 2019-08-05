@@ -34,7 +34,7 @@ Today I want to talk to you about our favorite four-legged friends: dogs and cat
 
 **2\. Groom your pets.** Make sure they are groomed before you start to list your house. A professional can get more hair and dander off your pet and the gunk is much better off in the groomer’s drain than your own.&nbsp;
 
-**3\. Have your tile grout cleaned.** Tile resists pet stains, but the grout between them sucks dirt in like a sponge. If your grout is really cruddy, i can connect you to a professional who can help you out.
+**3\. Have your tile grout cleaned.** Tile resists pet stains, but the grout between them sucks dirt in like a sponge. If your grout is really cruddy, I can connect you to a professional who can help you out.
 
 **4\. Get an air purifier.** Your heating and air system has been circulating all of your pet dander and hair again and again. By adding an air purifier, you can pull that hair and dander out of the air before it reaches your system.
 
