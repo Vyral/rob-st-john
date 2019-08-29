@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Interview With Julia King: Repairing Your Credit'
-date: 2019-08-29 17:04:49
+date: 2019-08-29 17:04:00
 tags:
 excerpt: >-
   Today I’m joined by Julia King, owner of King Financial Repair, who is going
