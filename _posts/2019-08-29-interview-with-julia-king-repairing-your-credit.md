@@ -26,6 +26,6 @@ Julia began her career in credit repair 17 years ago, and in that time, she’s 
 
 **1:40**—Commonly misunderstood aspects of the credit repair process<br>**3:50**—How often does false/inaccurate information end up on a credit report?<br>**5:44**—Where to go if you have questions about credit repair<br>**6:41**—The process of removing false/inaccurate information from your credit report<br>**8:59**—How King Financial Repair specifically assists our nation’s veterans<br>**10:32**—An important change to your debt-to-income ratio if you consolidate your loans<br>**11:23**—Concluding the interview
 
-Thanks so much Julia King for joining me to have this insightful conversation. For more information about the services offered at King Financial Repair, visit [www.KingFinancialRepair.com](http://www.kingfinancialrepair.com/){: target="_blank"}.
+Thanks so much to Julia King for joining me to have this insightful conversation. For more information about the services offered at King Financial Repair, visit [www.KingFinancialRepair.com](http://www.kingfinancialrepair.com/){: target="_blank"}.
 
 For any other questions you have about real estate, you are always encouraged to reach out to the Omnipresent Property Group. We’d be glad to hear from you\!<br>&nbsp;
