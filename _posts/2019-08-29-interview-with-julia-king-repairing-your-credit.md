@@ -28,4 +28,6 @@ Julia began her career in credit repair 17 years ago, and in that time, she’s 
 
 Thanks so much to Julia King for joining me to have this insightful conversation. For more information about the services offered at King Financial Repair, visit [www.KingFinancialRepair.com](http://www.kingfinancialrepair.com/){: target="_blank"}.
 
+To get your 3 credit reports and scores, check out [this website here](https://www.identityiq.com/help-you-to-save-money.aspx?offercode=431134XE).&nbsp;&nbsp;
+
 For any other questions you have about real estate, you are always encouraged to reach out to the Omnipresent Property Group. We’d be glad to hear from you\!<br>&nbsp;
