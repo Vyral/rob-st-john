@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips and Tricks for Hardwood Floor Repair
-date: 2019-09-12 18:24:47
+date: 2019-09-12 18:24:00
 tags:
 excerpt: >-
   If you’ve got scratches in your hardwood floors, these four simple and
@@ -20,7 +20,7 @@ youtube_code: zjcl5o0ASRk
 
 {% include youtube.html %}
 
-Hardwood floors are definitely “in” right now, but the scratches and scrapes they can get aren’t quite so on trend.&nbsp;
+Hardwood floors are definitely “in” right now, but the scratches and scrapes they can get aren’t quite so on-trend.&nbsp;
 
 Don’t get me wrong. I understand how easily these little imperfections can happen. If you have pets or children, or even if you don’t, this kind of damage is all but unavoidable. **But with professional floor refinishers charging anywhere from $1 to $4 per square foot, fixing these common cosmetic issues is sometimes easier said than done.** Thankfully, professional help isn’t the only way to get your hardwood floors looking great again.&nbsp;
 
